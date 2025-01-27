@@ -3,10 +3,10 @@
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/ivan_bosykh">
-  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="t.me/vacpts">
-  <img src="https://img.shields.io/badge/Telegram-steelblue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-steelblue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 <div id="counter" align="center">
