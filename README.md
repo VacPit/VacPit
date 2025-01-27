@@ -44,7 +44,9 @@ I am a Backend and Frontend Developer <img src="https://media0.giphy.com/media/v
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VacPit&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VacPit&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
