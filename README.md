@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw1Zmt0Zm8zNGJwZHJzNWg2azlxODk5YnkxaWgxdWY2cWF4dnU5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw1Zmt0Zm8zNGJwZHJzNWg2azlxODk5YnkxaWgxdWY2cWF4dnU5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="140px"/>
 </div>
 <div id="badges" align="center">
     <a href="https://vk.com/ivan_bosykh">
@@ -18,5 +18,9 @@
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGc3dzV6bTdxeG55aWYxeThhamdvNDNranZrOXhicTU0OTlmemt2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3DZ8z9lky3x0ltEicz/giphy.gif" width="37px"/>
     </h1>
 </div>
+<div align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXkzdG11Y2lwNXE5ZmJvcjA1bHRqMjJwOHc3b2I2ZDMzYzVvdTNocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYHz66JfYHbBtZXjHy/giphy.gif" width="490" height="360"/>
+</div>
+  
   
   
