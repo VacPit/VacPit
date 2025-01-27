@@ -19,8 +19,10 @@
     </h1>
 </div>
 <div align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXkzdG11Y2lwNXE5ZmJvcjA1bHRqMjJwOHc3b2I2ZDMzYzVvdTNocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYHz66JfYHbBtZXjHy/giphy.gif" width="490" height="360"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJhZW1xZTBmeHdlMXdyb2Jlc3NhN3E1bzJ5MXc2bWNicm56YWoyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="360px" height="360px"/>
 </div>
+
+
   
   
   
