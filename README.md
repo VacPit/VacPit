@@ -2,9 +2,6 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw1Zmt0Zm8zNGJwZHJzNWg2azlxODk5YnkxaWgxdWY2cWF4dnU5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif" width="140px"/>
 </div>
 <div id="badges" align="center">
-    <a href="https://t.me/vacpts">
-        <img src="https://img.shields.io/badge/Telegram-steelblue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
 </div>
 <div id="counter" align="center">
     <img src="https://komarev.com/ghpvc/?username=VacPit&style=flat-square&color=blue" alt=""/>
