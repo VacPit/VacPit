@@ -21,8 +21,6 @@
 I am a Fullstack Developer <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l5enUxNjNzeWlsZDkyZnE5NGFyc2pyMXFpZ2NtdzQ4d2l4bTRpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20"> from Russia.
 - 🔋I am a developer and in the backend I use languages ​​such as Python, Go and JavaScript.
 - 💾 Website developer using Html and CSS markup languages.
-- :dependabot: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Ivan-steelblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vacpts)
-</Markdown>
 
 ---
 
