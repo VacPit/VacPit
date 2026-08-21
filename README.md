@@ -240,8 +240,8 @@ Clean architecture, readable code and documentation are part of the product.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VacPit&show_icons=true&hide_border=true&bg_color=050505&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VacPit&layout=compact&hide_border=true&bg_color=050505&title_color=00D9FF&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GLC&show_icons=true&hide_border=true&bg_color=050505&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLC&layout=compact&hide_border=true&bg_color=050505&title_color=00D9FF&text_color=FFFFFF" height="180"/>
 </p>
 
 <p align="center">
@@ -339,7 +339,7 @@ I can build:
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=GLC&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=VacPit&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 
 </p>
 
