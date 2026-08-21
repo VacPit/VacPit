@@ -5,14 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="https://t.me/GLC_Dev">
     <img src="https://img.shields.io/badge/Telegram-050505?style=for-the-badge&logo=telegram&logoColor=00BFFF"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 </p>
 
@@ -102,7 +99,7 @@ Automation platform for managing clients and incoming requests through Telegram.
 
 `Python` `aiogram` `FastAPI` `PostgreSQL`
 
-<a href="https://github.com/YOUR_USERNAME/telegram-crm">
+<a href="https://github.com/VacPit/telegram-crm">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -134,7 +131,7 @@ Decision
 
 `Python` `FastAPI` `AI` `PostgreSQL`
 
-<a href="https://github.com/YOUR_USERNAME/ai-request-system">
+<a href="https://github.com/VacPit/ai-request-system">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -162,7 +159,7 @@ AI-powered platform designed to create personalized travel experiences.
 
 `Next.js` `TypeScript` `Tailwind` `Framer Motion`
 
-<a href="https://github.com/YOUR_USERNAME/aurora">
+<a href="https://github.com/VacPit/aurora">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -187,7 +184,7 @@ A collection of tools for automating repetitive business processes.
 
 `Python` `Go` `FastAPI` `PostgreSQL`
 
-<a href="https://github.com/YOUR_USERNAME/automation-platform">
+<a href="https://github.com/VacPit/automation-platform">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -248,7 +245,7 @@ Clean architecture, readable code and documentation are part of the product.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=050505&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=VacPit&theme=dark&hide_border=true&background=050505&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="70%"/>
 </p>
 
 ---
@@ -256,7 +253,7 @@ Clean architecture, readable code and documentation are part of the product.
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=FFFFFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VacPit&bg_color=050505&color=FFFFFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -342,7 +339,7 @@ I can build:
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=GLC&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 
 </p>
 
