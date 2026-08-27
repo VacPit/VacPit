@@ -161,7 +161,7 @@ ANALYTICS
 
 `Python` · `aiogram` · `FastAPI` · `PostgreSQL`
 
-<a href="https://github.com/VacPit/telegram-crm">
+<a href="https://github.com/VacPit/CRM-Demo.git">
 <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
